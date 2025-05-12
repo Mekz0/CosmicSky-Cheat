@@ -1,7 +1,10 @@
 # CosmicSky-Cheat
 PotionTracker
+
 /getBrag Playername
+
 Playerlist + Hearts
+
 Airdrop finder
 
 Credits
