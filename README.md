@@ -3,6 +3,8 @@ PotionTracker
 
 /getBrag Playername
 
+/health Playername
+
 Playerlist + Hearts
 
 Airdrop finder
