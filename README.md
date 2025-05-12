@@ -7,8 +7,5 @@ Playerlist + Hearts
 
 Airdrop finder
 
-Credits
-
-U9G
-
-NathanK
+Credits:
+U9G, NathanK
