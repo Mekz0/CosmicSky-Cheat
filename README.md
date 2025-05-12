@@ -1,4 +1,4 @@
-# CosmicSky-Cheat
+# CosmicSky-Cheat fabric 1.20.4
 PotionTracker
 
 /getBrag Playername
